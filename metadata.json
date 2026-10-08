@@ -1,0 +1,6 @@
+{
+  "name": "AegisSOC - AI Security Operations & Incident Response",
+  "description": "Enterprise-grade AI SOC Command Center for real-time cyber threat detection, predictive attack path intelligence, automated response simulation, and incident containment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
